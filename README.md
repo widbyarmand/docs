@@ -6,7 +6,7 @@
 
 <details>
   
-<summary> click here to see more   <summary>
+<summary> click here to see more   </summary>
 !hello and welcome 
   
-<details>
+</details>
