@@ -7,7 +7,6 @@
 <details>
   
 <summary> click here to see more   <summary>
-    
-  !hello and welcome 
+!hello and welcome 
   
 <details>
