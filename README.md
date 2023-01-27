@@ -9,7 +9,7 @@
 <summary> click here to see more   </summary>
   
   
-  # aws  
+  aws  
   https://aws.amazon.com/events/summits/toronto/
   
 </details>
