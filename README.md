@@ -18,12 +18,12 @@
   
   
   
-  <details>
+ <details>
 
-<summary> click to expand<summary>
-  
-
-  Bienvenue
-
-
-<details>
+<summary>Click to expand!</summary>
+ 
+ Bienvenue dans la version francaise de ce projet
+ 
+ 
+ 
+</details>
