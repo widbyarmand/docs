@@ -1,28 +1,13 @@
   <h1 align="center" > All documents </h1>
 
 
-## French Version 🇫🇷
+## welcome to perosnal documents
+
 
 <details>
-
-<summary>Click to expand!</summary>
- 
- Bienvenue dans la version francaise de ce projet
- 
- 
- 
-</details>
-
-
-
-## French Version 🇫🇷
-
+  
+  <summary> click here to see more   <summary>
+    
+  !hello and welcome 
+  
 <details>
-
-<summary>Click to expand!</summary>
- 
- Bienvenue dans la version francaise de ce projet
- 
- 
- 
-</details>
